@@ -15,7 +15,7 @@
   font-family:"Arial", Times, serif;
   font-size:18px;
   font-weight:bold;
-  position:relative;
+  position:absolute;
   top:0px;
   width:120px
   height:26px;
@@ -27,7 +27,7 @@
   font-family:"Arial", Times, serif;
   font-size:18px;
   font-weight:bold;
-  position:relative;
+  position:absolute;
   top:0px;
   width:120px
   height:26px;
