@@ -1,7 +1,36 @@
-.navbar_background {
+.navbar {
   color:white;
   background-color:black;
-  font-size:64px;
+  font-family:"Arial", Times, serif;
+  font-size:28px;
+  font-weight:bold;
+  position:absolute top;
+  top:0px;
   width:relative;
   height:relative;
+}
+.navbar_button {
+  color:white;
+  background-color:black;
+  font-family:"Arial", Times, serif;
+  font-size:18px"
+  font-weight:bold;
+  position:relative;
+  top:10px;
+  width:120px
+  height:relative;
+  padding:4px;
+}
+.navbar_button_selected {
+  color:black;
+  background-color:white;
+  font-family:"Arial", Times, serif;
+  font-size:18px"
+  font-weight:bold;
+  position:relative;
+  top:10px;
+  width:120px
+  height:relative;
+  border-left:4px solid darkpurple;
+  padding:4px;
 }
