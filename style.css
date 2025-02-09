@@ -2,10 +2,10 @@
   color:white;
   background-color:black;
   font-family:"Arial", Times, serif;
-  font-size:28px;
+  font-size:28em;
   font-weight:bold;
   position:top;
-  top:0px;
+  top:0em;
   width:relative;
   height:relative;
 }
@@ -13,27 +13,26 @@
   color:white;
   background-color:black;
   font-family:"Arial", Times, serif;
-  font-size:18px;
+  font-size:1em;
   font-weight:bold;
   position:relative;
-  top:0px;
-  width:120px;
-  height:26px;
-  border:1px solid black;
-  padding:4px;
+  top:0em;
+  width:120em;
+  height:26em;
+  border:1em solid black;
+  padding:4em;
 }
 .navbar_button_selected {
   color:black;
   background-color:white;
   font-family:"Arial", Times, serif;
-  font-size:18px;
+  font-size:1em;
   font-weight:bold;
   position:relative;
-  top:0px;
-  width:120px;
-  height:26px;
-  border:1px solid white;
-  border-left:8px solid purple;
-  padding:4px;
-  padding-left:8px;
+  top:0em;
+  width:12em;
+  height:26em;
+  border:1em solid white;
+  border-left:4em solid purple;
+  padding:4em;
 }
