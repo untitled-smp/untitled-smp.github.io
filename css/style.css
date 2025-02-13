@@ -25,6 +25,7 @@ body {
     background-color: rgb(69, 69, 69);
     background-size: cover;
     background-repeat: no-repeat;
+    background-attachment: fixed;
     position: sticky;
     animation: infinite boxBackgroundImageCycle 50s;
 }
